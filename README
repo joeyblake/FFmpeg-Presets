@@ -5,10 +5,10 @@ Currently these are just the example presets that ship with the ffmpeg zip, insi
 
 Yes, if you did a standard install you could just move them yourself. But it you used homebrew you would have to go and find them. Why do that? When you could just do this:
 
-<pre>
+
 mkdir ~/.ffmpeg
 cd .ffmpeg
 git clone git://github.com/joeyblake/FFmpeg-Presets.git .
-</pre>
+
 
 And be done.
